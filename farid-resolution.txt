@@ -2,3 +2,5 @@ farid-resolution
 -mutqin 30 juz
 -hapal mutun tholibul ilmi
 -bisa programming
+-language section
+-ahlan magz crew
